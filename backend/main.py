@@ -1,4 +1,3 @@
-
 """
 Text-to-Quiz FastAPI backend.
 
