@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+python-multipart
+pypdf
+reportlab
+# Optional local validators: sentence-transformers transformers torch
